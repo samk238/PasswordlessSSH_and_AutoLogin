@@ -7,11 +7,9 @@ Script/command to perform above and a word doc to guide step by step ...
      2:  Script mentioned in the doc: ssh_keys_copy.sh
 
 <div dir="ltr" style="text-align: left;" trbidi="on"><br/></div>
-<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
-<head>
-</head>
+<html>
+<head></head>
 <body>
-  <details>
   <summary><b><font color="blue">AppInfo:copy_to_servers</font></b></summary>
   <br>Script/command to list running services w/ timestamps also helps in identifying the duplicate processes.<br>
    <br>&emsp;&ensp;&emsp;&ensp; 1:&emsp; Login to UNIX machine
@@ -24,7 +22,6 @@ Script/command to perform above and a word doc to guide step by step ...
    <br>&emsp;&ensp;&emsp;&ensp; 8:&emsp; verfiy the result, incase of any misleading output, please update as needed.
    <br>&emsp;&ensp;&emsp;&ensp; 7:&emsp; from nextlogin/forthwith type "appinfo" to trigger "~/appinfo.sh"
    <br>&emsp;&ensp;&emsp;&ensp;&emsp;&emsp;&emsp; above can be achieved by removing the "#opt#" comment from script...
-  </details><br><br>
+   <br><br>
 </body>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 </html>
